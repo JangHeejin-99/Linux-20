@@ -57,8 +57,10 @@
 
 **3. Chat Start**
 - User1이 button 클릭 -> User2가 버튼 클릭 -> User1이 채팅 입력 시 User2 채팅 화면에 내용 출력 -> User2가 채팅 입력 -> 반복 -> User1이나 User2 중 q를 입력하면 채팅 종료
-![image](https://user-images.githubusercontent.com/60311404/113162247-14f1fa00-927a-11eb-97b2-29567e8e8138.png)
+  
+  ![image](https://user-images.githubusercontent.com/60311404/113162247-14f1fa00-927a-11eb-97b2-29567e8e8138.png)
 
 **4. Quit**
 - quit buuton 클릭 -> 프로그램 종료
-![image](https://user-images.githubusercontent.com/60311404/113162266-18858100-927a-11eb-93a1-0ab1278175c5.png)
+  
+  ![image](https://user-images.githubusercontent.com/60311404/113162266-18858100-927a-11eb-93a1-0ab1278175c5.png)
