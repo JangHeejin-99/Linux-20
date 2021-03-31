@@ -37,18 +37,22 @@
 - join button 클릭 -> ID , PW , Nickname 입력 -> 정보가 db에 있는 경우 회원가입 실패, 없는 경우 성공
 
 <회원가입 실패>
+
 ![image](https://user-images.githubusercontent.com/60311404/113161968-d3614f00-9279-11eb-855e-371848b12df5.png) 
 
 <회원가입 성공>
+
 ![image](https://user-images.githubusercontent.com/60311404/113162025-deb47a80-9279-11eb-90b1-7e99a6bf580c.png)
 
 **2. Login**
 - login button 클릭 -> ID , PW 입력 -> 둘 중 하나라도 틀렸으면 로그인 실패, 일치하면 로그인 성공
 
 <로그인 실패>
+
 ![image](https://user-images.githubusercontent.com/60311404/113162062-e6741f00-9279-11eb-9ddb-8ffc414ae66b.png)
 
 <로그인 성공>
+
 ![image](https://user-images.githubusercontent.com/60311404/113162180-06a3de00-927a-11eb-82c3-041588bc8bbc.png)
 
 **3. Chat Start**
